@@ -1,0 +1,7 @@
+python ==3.8.18
+pandas==2.0.3
+tqdm==4.66.4
+torchvision==0.14.0
+pytorch==1.13.0
+transformers==4.11.3
+numpy==1.21.0

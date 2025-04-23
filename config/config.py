@@ -15,5 +15,6 @@ position_embedding_type="absolute",
 projection_dim: int = 0,
 hidden_size = 768
 TEXT_DIM = 768
+VISUAL_DIM = 768
 
 

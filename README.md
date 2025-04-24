@@ -7,8 +7,11 @@
 Our main contributions can be summarized as follows:
 
 ●    Recognizing the differential contributions of modalities on sentiment analysis, a novel TGFM is introduced to achieve the consistency among three modalities including text, audio, and video via two key components: (1) text-oriented multi-head attention and (2) text-guided cross-modal mappings, providing a comprehensive solution to multimodal fusion challenges.
+
 ●    The relationship between representations and features is integrated through the introduction of a unimodal representation learning module. This module is designed to capture temporal dependencies within feature sequences while mining global attributes, ensuring that the model effectively understands and represents single-peak features.
+
 ●    A multi-task learning framework is employed to jointly train four tasks for co-learning, thereby enabling effective sentiment polarity prediction even in the absence of unimodal labels.
+
 ●    This work discovers that the utilisation of single modal labels in conjunction with multi-task joint learning proves efficacious in enhancing fine classification, which provides a few thoughts for the improvement of Acc-5 and Acc-7 in the future.
 
 ## The Framework

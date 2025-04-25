@@ -16,7 +16,7 @@ Our main contributions can be summarized as follows:
 
 ## Backgroud and Significance
 
-●    With the rapid proliferation of multimodal content—such as text, audio, and video—on social media and short video platform multimodal sentiment analysis (MSA) has emerged as a vital research direction in the field of artificial intelligence. Despite notable  advancements in multimodal dataset construction and fusion strategies, MSA continues to face two fundamental challenges.
+●    With the rapid proliferation of multimodal content—such as text, audio, and video—on social media and short video platforms, multimodal sentiment analysis (MSA) has emerged as a vital research direction in the field of artificial intelligence. Despite notable advancements in multimodal dataset construction and fusion strategies, MSA continues to face two fundamental challenges: the effective fusion of heterogeneous modalities and collaborative learning under modality imbalance. Besides, the inherent distributional differences between modalities often lead to conflicting or unstable results during fusion, significantly hindering the accuracy of sentiment prediction.
 
 ## The Framework
 
@@ -44,7 +44,7 @@ For more details, please refer to  [Self-mm](https://github.com/thuiar/Self-MM)
 
 ### Run the codes
 
-●   You can first set the training dataset name in ./run.py as "mosei" , "mosi" or "sims", and then run.
+●   You can first set the training dataset name in run.py as "mosei" , "mosi" or "sims", and then run.
 
 ### Results
 

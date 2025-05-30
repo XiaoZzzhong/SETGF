@@ -1,8 +1,9 @@
 # Bridging Modal Gaps in Multimodal Sentiment Analysis: A Self-Supervised Text-Guided Fusion Approach
 
+<br/>
 ## Contributions
 
-●   
+●    
 
 ## Backgroud and Significance
 

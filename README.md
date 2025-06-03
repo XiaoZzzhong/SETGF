@@ -1,13 +1,10 @@
 # Bridging Modal Gaps in Multimodal Sentiment Analysis: A Self-Supervised Text-Guided Fusion Approach
 
 <br/>
-## Contributions
-
-●    
 
 ## Backgroud and Significance
 
-●    
+●    With the rapid proliferation of multimodal content—such as text, audio, and video—on social media and short video platforms, multimodal sentiment analysis (MSA) has emerged as a vital research direction in the field of artificial intelligence. Despite notable advancements in multimodal dataset construction and fusion strategies, MSA continues to face two fundamental challenges: the effective fusion of heterogeneous modalities and collaborative learning under modality imbalance. Besides, the inherent distributional differences between modalities often lead to conflicting or unstable results during fusion, significantly hindering the accuracy of sentiment prediction.
 
 ## The Framework
 
